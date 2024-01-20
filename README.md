@@ -1,6 +1,6 @@
 # JS Portfolio Website
 
-[🔗Live Demo🔗]([(https://kushagra15.netlify.app/)])
+[🔗Live Demo🔗](https://kushagra15.netlify.app/)
 
 ## Features
 
